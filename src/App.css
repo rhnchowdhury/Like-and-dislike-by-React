@@ -32,7 +32,28 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/*****************************************Customize CSS************************************/
+
+.like-5 {
+  font-size: 25px;
+  color: #0561F2;
+}
+
+.like-icon {
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.like-color {
+  color: #0561F2;
+}
+
+.dislike-color {
+  color: #282c34;
 }
